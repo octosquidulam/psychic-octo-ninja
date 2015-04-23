@@ -7,11 +7,3 @@ So things
 things 
 code.ss
 whatever
-
-new
-tjiojgs
-a
-sd
-as
-fa
-sf
